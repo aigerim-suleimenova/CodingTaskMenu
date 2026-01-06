@@ -7,7 +7,7 @@
 - Apache/Nginx web server
 - WordPress
 
-# Located in `wordpress/wp-content/themes/custom-theme/`
+- Located in `wordpress/wp-content/themes/custom-theme/`
 
 # Installation
 - git clone https://github.com/aigerim-suleimenova/CodingTaskMenu.git
